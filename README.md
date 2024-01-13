@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Dinesh
+### Hi there 👋, I am Dinesh
 ### PVPSIT"24
-
 
