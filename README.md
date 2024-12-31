@@ -50,7 +50,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: dineshjnld22@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/-dinesh-7a83b2241/)
 
 </p>
 
