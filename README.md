@@ -1,139 +1,226 @@
 <div align="center">
 
-# Jonnalagadda Dinesh
+<!-- HERO / IDENTITY -->
+<h1>JONNALAGADDA DINESH</h1>
 
-### AI/ML Engineer • Generative AI • Backend Systems • Applied Research
+<h3>AI/ML ENGINEER · GENERATIVE AI · AGENTIC SYSTEMS · BACKEND</h3>
 
 <p>
-  <a href="https://github.com/Dineshjnld"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/-dinesh-7a83b2241/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:dineshjnld22@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://dineshjnld.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=I+build+AI+systems+that+move+from+prototype+to+product.;LLMs+%2B+Data+%2B+APIs+%2B+Human+Workflows.;Engineering+for+real+users%2C+not+just+demos." alt="Animated introduction" />
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-ready+AI+systems;RAG+%7C+LLM+Agents+%7C+NLP+%7C+Computer+Vision;Turning+complex+workflows+into+useful+products" alt="Typing animation" />
+  <a href="https://dineshjnld.github.io/"><img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/-dinesh-7a83b2241/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:dineshjnld22@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0d1117&section=header&reversal=true" width="100%" />
 
 </div>
 
+## ◈ THE ENGINEERING SIGNAL
+
+<table>
+<tr>
+<td width="33%" align="center"><b>01</b><br/>MODEL ENGINEERING<br/><sub>LLMs · RAG · NLP · CV</sub></td>
+<td width="33%" align="center"><b>02</b><br/>SYSTEM ENGINEERING<br/><sub>APIs · Data · Agents · Cloud</sub></td>
+<td width="33%" align="center"><b>03</b><br/>PRODUCT ENGINEERING<br/><sub>UX · Automation · Impact</sub></td>
+</tr>
+</table>
+
+> **My goal is not to put an AI model behind a button. It is to design the complete system around the model.**
+
 ---
 
-## ◉ About
+## 🛰️ CURRENT MISSION
 
-I build practical AI systems that connect models, data, APIs and real users. My work spans **LLM applications, RAG pipelines, multi-agent workflows, NLP, computer vision, backend engineering and cloud platforms**.
+**Programmer Analyst @ Cognizant · Hyderabad · Dec 2024 — Present**
 
-Currently, I work as a **Programmer Analyst at Cognizant**, supporting mission-critical banking data pipelines and exploring AI-assisted operations. Outside day-to-day engineering, I build prototypes for hackathons, public-sector use cases and research.
+I work on mission-critical US banking data pipelines, troubleshooting **Mainframe/JCL and AB Initio ETL** workflows within SLA, working with **GCP BigQuery**, enterprise change processes and data platforms including **Teradata, Snowflake and PySpark**.
 
-> **Engineering mindset:** model + data + system design + measurable user value.
-
----
-
-## ⚡ Featured Work
-
-| Project | What it demonstrates |
-|---|---|
-| **CCTNS Copilot Engine** | Voice → Telugu/English STT → NL→SQL → database execution → visualization for police analytics |
-| **Paytm AI Hackathon — DeltaForce** | AI product development, payment workflow integration and rapid prototyping |
-| **Copy-Move Forgery Detection** | CNN-based identity-document authentication research; published work |
-| **DB Voice Copilot** | Natural-language database interaction and voice-first analytics |
-| **AP Police Innovation / Conference Platforms** | Enterprise portals, dashboards, workflow design and secure deployment |
-
-### CCTNS Copilot architecture
+Alongside production engineering, I build AI-assisted solutions that turn operational problems into repeatable workflows.
 
 ```text
-┌───────────────┐    ┌────────────────┐    ┌─────────────────┐
-│ Voice / Text  │───▶│ Speech + Clean │───▶│ NL → SQL Agent  │
-└───────────────┘    └────────────────┘    └────────┬────────┘
-                                                    │
-                                                    ▼
-                                      ┌────────────────────────┐
-                                      │ SQL Execution + Guard  │
-                                      └────────────┬───────────┘
-                                                   │
-                                                   ▼
-                                      ┌────────────────────────┐
-                                      │ Charts / Reports / UI  │
-                                      └────────────────────────┘
+PROBLEM
+   ↓
+DATA / CONTEXT
+   ↓
+MODEL OR AGENT
+   ↓
+TOOLS / APIs
+   ↓
+VALIDATION
+   ↓
+USER-FACING RESULT
 ```
 
 ---
 
-## 🧠 Technical Stack
+## 🧬 SELECTED SYSTEMS
 
-### AI / ML
-`Python` `PyTorch` `TensorFlow` `Transformers` `Hugging Face` `LangChain` `RAG` `LLM Agents` `NLP` `Computer Vision`
+### 01 · CCTNS COPILOT ENGINE
+**Voice-first police analytics**
 
-### Backend / Data
-`FastAPI` `Node.js` `Express` `SQL` `MongoDB` `MySQL` `BigQuery` `Snowflake` `PostgreSQL`
+`STT` → `Text Cleanup` → `NL → SQL` → `SQL Execution` → `Visualization`
 
-### Cloud / AI Platforms
-`AWS` `S3` `Lambda` `SageMaker` `Bedrock` `GCP` `Azure` `Gemini` `Ollama`
+A multimodal, agent-oriented system designed for police officers to query CCTNS data using **Telugu / Indian English voice input**, convert natural language into SQL, execute against structured data and return visual analytics.
 
-### Frontend / Product
-`React` `Next.js` `TypeScript` `JavaScript` `Streamlit` `HTML` `CSS`
+**Core:** IndicConformer · Whisper fallback · flan-T5-small · SQLova · Picard/T5 · Multi-agent orchestration
 
-### Engineering
-`Git` `Docker` `REST APIs` `Microservices` `MLOps fundamentals` `Production support` `System integration`
+<a href="https://github.com/Dineshjnld/AI4APH">↗ VIEW REPOSITORY</a>
 
 ---
 
-## 💼 Experience
+### 02 · PAYTM AI HACKATHON — DELTAFORCE
+**AI product prototyping under real constraints**
 
-### Programmer Analyst — Cognizant
-**Dec 2024 — Present · Hyderabad**
+Built and integrated a working product experience around an AI use case, including **Paytm payment gateway staging integration**.
 
-- Support mission-critical US banking data pipelines within SLA.
-- Troubleshoot **Mainframe/JCL and AB Initio ETL** production jobs.
-- Work with **GCP BigQuery** and enterprise change workflows through ServiceNow.
-- Built an internal **Generative AI proof-of-concept for classifying job-failure errors**, helping reduce manual triage effort.
-- Trained across modern data platforms including **Teradata, Snowflake and PySpark**.
+<a href="https://github.com/Dineshjnld/PaytmAIhackathon-deltaforce">↗ VIEW REPOSITORY</a>
 
 ---
 
-## 🏆 Research & Hackathons
+### 03 · COPY-MOVE FORGERY DETECTION
+**Computer vision research for identity-document authentication**
 
-**IEEE Xplore — INTCEC 2024**  
-*“A Novel Approach…”* on Copy-Move Forgery Detection for identity-document authentication.
+CNN-based forgery-detection work developed into published research, combining deep learning, feature extraction and transfer-learning approaches.
 
-**AI4AndhraPolice Hackathon 2025 — Finalist / Team DeltaForce**  
-Built the CCTNS Copilot Engine for police data analytics using voice interaction and AI agents.
+**Publication:** INTCEC 2024 · IEEE Xplore
 
-**Smart India Hackathon 2023 — Finalist**
-
-**Intel oneAPI Hackathon — Shortlisted for IISc Bangalore**
+<a href="https://github.com/Dineshjnld/Copy-move-forgery-detection">↗ VIEW REPOSITORY</a>
 
 ---
 
-## 📊 GitHub Activity
+### 04 · DB VOICE COPILOT
+**Natural-language database interaction**
+
+Explores a voice-first interface for turning human questions into database operations and readable results.
+
+<a href="https://github.com/Dineshjnld/DB-Voice-Copilot">↗ VIEW REPOSITORY</a>
+
+---
+
+## 🧠 STACK MATRIX
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dineshjnld&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshjnld&layout=compact&hide_border=true&theme=transparent" />
+
+| Layer | Technologies |
+|---|---|
+| **AI** | Python · PyTorch · TensorFlow · Transformers · Hugging Face · LangChain |
+| **GenAI** | RAG · LLMs · Agents · Gemini · Ollama |
+| **Backend** | FastAPI · Node.js · Express · REST APIs · Microservices |
+| **Data** | SQL · MongoDB · MySQL · PostgreSQL · BigQuery · Snowflake |
+| **Cloud** | AWS · GCP · Azure · S3 · Lambda · SageMaker · Bedrock |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Streamlit |
+| **Engineering** | Git · Docker · MLOps fundamentals · Production support |
+
 </div>
 
+---
+
+## 🧩 HOW I THINK ABOUT AI PRODUCTS
+
+```text
+            ┌───────────────────┐
+            │      HUMAN        │
+            └─────────┬─────────┘
+                      │ intent
+                      ▼
+            ┌───────────────────┐
+            │  ORCHESTRATION    │
+            │ agents / workflow │
+            └─────────┬─────────┘
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+       MODEL         DATA        TOOLS
+       LLM/CV       SQL/RAG      APIs
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+            ┌───────────────────┐
+            │ VALIDATE + GOVERN  │
+            └─────────┬─────────┘
+                      ▼
+            ┌───────────────────┐
+            │  USEFUL OUTCOME   │
+            └───────────────────┘
+```
+
+**Reliable AI = intelligence + context + tools + constraints + UX.**
+
+---
+
+## 🏆 PROOF OF WORK
+
+| Signal | Evidence |
+|---|---|
+| **Production Engineering** | Cognizant · banking data pipelines · SLA-driven support |
+| **Applied AI** | CCTNS Copilot · AI-assisted production triage POC |
+| **Research** | INTCEC 2024 · IEEE Xplore publication |
+| **Hackathons** | AI4AndhraPolice finalist · Smart India Hackathon finalist · Intel oneAPI shortlist |
+| **Product Building** | Paytm AI Hackathon · AP Police platforms · AI prototypes |
+
+---
+
+## 📈 GITHUB TELEMETRY
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dineshjnld&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dineshjnld&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshjnld&layout=compact&hide_border=true&theme=transparent" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Dineshjnld&hide_border=true&theme=transparent" />
+
 </div>
 
 ---
 
-## 🧭 What I'm Building Toward
+## ⚙️ NOW BUILDING TOWARD
 
-**AI Engineering → Production Systems → Agentic Workflows → Reliable, measurable AI products**
+```text
+AI / ML ENGINEERING
+        ↓
+PRODUCTION-GRADE GENAI
+        ↓
+AGENTIC SYSTEMS
+        ↓
+SCALABLE AI PRODUCTS
+        ↓
+MEASURABLE REAL-WORLD IMPACT
+```
 
-I am especially interested in roles where I can combine **software engineering, machine learning and generative AI** to solve hard operational problems.
+I am interested in engineering environments where **machine learning, software architecture and product thinking** meet.
 
 ---
 
-## 📫 Connect
+## ◉ SIGNAL LINKS
 
 <div align="center">
 
-**Open to conversations around AI/ML engineering, Generative AI, backend systems, research and ambitious product ideas.**
+**PORTFOLIO**  ·  **GITHUB**  ·  **LINKEDIN**  ·  **EMAIL**
 
+<a href="https://dineshjnld.github.io/">dineshjnld.github.io</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dineshjnld">github.com/Dineshjnld</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/-dinesh-7a83b2241/">LinkedIn</a>
+&nbsp; · &nbsp;
 <a href="mailto:dineshjnld22@gmail.com">dineshjnld22@gmail.com</a>
 
 </div>
 
-<!-- Portfolio homepage: https://dineshjnld.github.io/ -->
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dineshjnld&style=for-the-badge&color=0d1117" alt="Profile views" />
+
+### `BUILD → SHIP → LEARN → REPEAT`
+
+</div>
