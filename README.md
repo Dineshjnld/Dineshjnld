@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="https://dineshjnld.github.io/"><img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
+  <a href="https://dineshjnld.github.io/Dineshjnld/"><img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
   <a href="https://www.linkedin.com/in/-dinesh-7a83b2241/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:dineshjnld22@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
@@ -205,7 +205,7 @@ I am interested in engineering environments where **machine learning, software a
 
 **PORTFOLIO**  ·  **GITHUB**  ·  **LINKEDIN**  ·  **EMAIL**
 
-<a href="https://dineshjnld.github.io/">dineshjnld.github.io</a>
+<a href="https://dineshjnld.github.io/Dineshjnld/">dineshjnld.github.io/Dineshjnld</a>
 &nbsp; · &nbsp;
 <a href="https://github.com/Dineshjnld">github.com/Dineshjnld</a>
 &nbsp; · &nbsp;
